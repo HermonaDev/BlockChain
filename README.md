@@ -8,7 +8,7 @@
 - Sifen Tesfa - UGR/22681/13
 - wondmeneh Dereje - UGR/22556/13
 - Natnael Zemedkun - UGR/22762/13
-- 
+- Guluma Mekonnen - UGR/22689/13
 ## 📂 Repo Structure
 - `Notes/`: Lesson notes and concepts
 - `Code/`: Smart contracts written in Solidity
