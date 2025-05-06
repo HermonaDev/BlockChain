@@ -6,7 +6,9 @@
 ## 👥 Group Members
 - Hermona Addisu - UGR/22516/13
 - Sifen Tesfa - UGR/22681/13
-
+- wondmeneh Dereje - UGR/22556/13
+- Natnael Zemedkun - UGR/22762/13
+- 
 ## 📂 Repo Structure
 - `Notes/`: Lesson notes and concepts
 - `Code/`: Smart contracts written in Solidity
